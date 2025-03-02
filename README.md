@@ -1,3 +1,3 @@
-  Arabic
+  Arabic https://discord.gg/devx
 
 
